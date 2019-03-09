@@ -1,0 +1,14 @@
+.NavBar {
+    width: 100%;
+    background-color: #edecf1;
+    height: 3em;
+    padding: 0;
+    margin: 0;
+    padding-left: 2.5em;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+.NavBar > .NavItem {
+  justify-content: flex-start;
+}

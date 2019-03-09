@@ -1,0 +1,12 @@
+.NavItem {
+    background-color: #white;
+    height: 3em;
+    padding: 1em;
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+}
+
+.NavItem:hover {
+    background-color: white;
+}
